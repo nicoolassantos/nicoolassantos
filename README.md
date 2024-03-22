@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About me
+Oláa, meu Nome é Nicolas Santos,
+eu estudo Análise e Desenvolvimento de Sistemas, em Florianópolis, Santa Catarina, busco uma oportunidade de estágio na área da programação, visando complementar
+minha formação profissional. Estou em busca de um ambiente que me permita
+desenvolver habilidades práticas, relacionadas aos conteúdos estudados ao longo do
+curso, promovendo assim o meu crescimento profissional, sou um desenvolvedor aspirante, apaixonado por tecnologia, inovação e desenvolvimento.
